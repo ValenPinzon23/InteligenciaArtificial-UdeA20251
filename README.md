@@ -82,4 +82,4 @@ Todo el proceso de preprocesamiento está implementado en el notebook **02 - pre
 - Flujo paso a paso para mayor claridad y control del proceso
 
 ## Video de Avance del Proyecto
-[Enlace al video en YouTube](https://www.youtube.com/watch?v=XXXX) - Este video explica el estado actual del proyecto, las dificultades encontradas y los próximos pasos a seguir.
+...
