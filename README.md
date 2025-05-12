@@ -82,4 +82,4 @@ Todo el proceso de preprocesamiento está implementado en el notebook **02 - pre
 - Flujo paso a paso para mayor claridad y control del proceso
 
 ## Video de Avance del Proyecto
-...
+- https://youtu.be/EDLIb-78314
